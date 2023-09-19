@@ -1,10 +1,10 @@
 # De nuevo en el bar de Javier
 
-![Entrada del programa](images/tiempoMemoria.png)
+![Tiempo y memoria a consumir máximos](images/tiempoMemoria.png)
 
 Tras las medidas tomadas, Javier ha visto que las ventas de su bar han mejorado bastante, así que ha decidido seguir adelante con su estudio. Ahora le gustaría investigar con qué productos gana más dinero y con cuáles gana menos. Además, también le gustaría saber si las ventas en comidas superan la media. Para ello ha establecido varias categorías:
 
-![Entrada del programa](images/tabla.png)
+![Tabla categorías](images/tabla.png)
 
 Javier encuadra cada venta que realiza dentro de una de esas categorías. Cuando tiene un momento, pasa los datos de todas las ventas al ordenador, y le gustaría que le devolviese los siguientes valores: la categoría que más dinero ha recaudado, la que menos, y si el dinero conseguido con las comidas supera la media. No es demasiado constante registrando datos, pero nunca deja un día a medias de introducir.
 
